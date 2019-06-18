@@ -1,0 +1,11 @@
+If you are running on Python 3, please consider to downgrade pip package using command below:
+
+	python -m pip install --user --upgrade pip==9.0.3
+
+and run "setup.py" and "slope_stability_scanner.py" squently to begin the program.
+
+Or if you want to install the required packages manually, you can use this command:
+
+	pip3 install pyfiglet, pandas, numpy
+
+and make sure your computer has been installed the latest version of pip3.
